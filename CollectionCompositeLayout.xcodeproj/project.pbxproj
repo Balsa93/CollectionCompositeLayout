@@ -58,9 +58,9 @@
 		2405D29D2966EB230081EDEB /* CollectionCompositeLayout */ = {
 			isa = PBXGroup;
 			children = (
-				24988B39296F301900A8320F /* Models */,
-				24988B37296F2FFD00A8320F /* Views */,
-				24988B38296F300600A8320F /* Controllers */,
+				2405D2A42966EB230081EDEB /* Main.storyboard */,
+				2405D2A22966EB230081EDEB /* ViewController.swift */,
+				2405D2B22966ED420081EDEB /* MyCollectionViewCell.swift */,
 				24988B36296F2F9000A8320F /* Resources */,
 				2405D2AC2966EB250081EDEB /* Info.plist */,
 			);
@@ -76,30 +76,6 @@
 				2405D2A92966EB250081EDEB /* LaunchScreen.storyboard */,
 			);
 			path = Resources;
-			sourceTree = "<group>";
-		};
-		24988B37296F2FFD00A8320F /* Views */ = {
-			isa = PBXGroup;
-			children = (
-				2405D2A42966EB230081EDEB /* Main.storyboard */,
-				2405D2B22966ED420081EDEB /* MyCollectionViewCell.swift */,
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
-		24988B38296F300600A8320F /* Controllers */ = {
-			isa = PBXGroup;
-			children = (
-				2405D2A22966EB230081EDEB /* ViewController.swift */,
-			);
-			path = Controllers;
-			sourceTree = "<group>";
-		};
-		24988B39296F301900A8320F /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
